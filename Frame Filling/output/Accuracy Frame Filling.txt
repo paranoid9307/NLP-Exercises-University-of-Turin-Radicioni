@@ -1,0 +1,5 @@
+The accuracy for the frame 1 is : 57.14
+The accuracy for the frame 2 is : 60.94
+The accuracy for the frame 3 is : 22.22
+The accuracy for the frame 4 is : 52.63
+The accuracy for the frame 5 is : 50.0
